@@ -1,10 +1,10 @@
 {
   "name": "phonegap-template-hello-world",
   "version": "4.0.4",
-  "description": "> A Hello World template built with PhoneGap",
+  "description": "> The island's leading lifestyle community",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phonegap/phonegap-app-hello-world.git"
+    "url": "https://github.com/SamBeniquez/Boriken-Private-Society.git"
   },
   "author": "PhoneGap Team",
   "license": "Apache-2.0",
@@ -15,7 +15,7 @@
     "phonegap:template"
   ],
   "bugs": {
-    "url": "https://github.com/phonegap/phonegap-app-hello-world/issues"
+    "url": "https://github.com/SamBeniquez/Boriken-Private-Society/issues"
   },
-  "homepage": "https://github.com/phonegap/phonegap-app-hello-world"
+  "homepage": "https://github.com/SamBeniquez/Boriken-Private-Society"
 }
